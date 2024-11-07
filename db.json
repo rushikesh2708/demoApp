@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": "7a87",
+      "firstName": "sachin ",
+      "lastName": "d",
+      "birthDate": "1996-08-27",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "google",
+      "jobExperience": 5,
+      "salary": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
